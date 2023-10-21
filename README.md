@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizfa07&label=Profile%20views&color=0e75b6&style=flat" alt="azizfa07" /> </p>
 
-- 🌱 I’m currently learning **PHP, Java Script, python, and attending dicoding bootcamp.**
+- 🌱 I’m currently learning **PHP, Java Script, Python, and attending Dicoding Bootcamp.**
 
 - ⚡ Fun fact **I'm such a perfectionist**
 
