@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=50&animation=fadeIn&DescAlign=50&customColorList=0,2,2,2,2,3" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=50&animation=fadeIn&DescAlign=50"/>
 </p>
   
 <h1 align="center">Hi 👋, I'm Aziz Fatih Aryasuta</h1>
@@ -28,5 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizfa07&" alt="azizfa07" /></p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=See%20you%20👋&fontSize=50&animation=fadeIn&DescAlign=50&fontAlignY=70&customColorList=0,2,2,2,2,3" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=See%20you%20👋&fontSize=50&animation=fadeIn&DescAlign=50&fontAlignY=70" />
 </p>
