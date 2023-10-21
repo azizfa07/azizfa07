@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=50&animation=fadeIn&DescAlign=50&customColorList=0,2,2,2,2,3" />
+</p>
+  
 <h1 align="center">Hi 👋, I'm Aziz Fatih Aryasuta</h1>
 <h3 align="center">a student on a journey to becoming a backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473me48ju6dufssvustdouwfhzwu7e3yxhd7rtmtu6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -22,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizfa07&show_icons=true&locale=en" alt="azizfa07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizfa07&" alt="azizfa07" /></p>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=See%20you%20👋&fontSize=50&animation=fadeIn&DescAlign=50&fontAlignY=70&customColorList=0,2,2,2,2,3" />
+</p>
