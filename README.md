@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=50&animation=fadeIn&DescAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=50&animation=fadeIn&DescAlign=50&fontAlignY=40"/>
 </p>
   
 <h1 align="center">Hi 👋, I'm Aziz Fatih Aryasuta</h1>
