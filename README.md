@@ -3,14 +3,12 @@
 </p>
   
 <h1 align="center">Hi 👋, I'm Aziz Fatih Aryasuta</h1>
-<h3 align="center">a student on a journey to becoming a backend developer</h3>
+<h3 align="center">a student who is still learning about web development</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473me48ju6dufssvustdouwfhzwu7e3yxhd7rtmtu6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizfa07&label=Profile%20views&color=0e75b6&style=flat" alt="azizfa07" /> </p>
 
-- 🌱 I’m currently learning **PHP, Java Script, and attending Dicoding Bootcamp.**
-
-- ⚡ Fun fact **I'm such a perfectionist**
+- 📚 I’m currently learning **Java Script, Type Script, and attending Dicoding Bootcamp.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
