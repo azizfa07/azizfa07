@@ -1,5 +1,5 @@
 # 💫 About Me:
-a student who is still learning about web development •ᴗ•
+a student who is still learning about programming •ᴗ•
 
 
 ## 🌐 Socials:
